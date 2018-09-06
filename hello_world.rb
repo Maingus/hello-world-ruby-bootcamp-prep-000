@@ -1,3 +1,2 @@
-Ruby''''
-puts "Hello World!"
+Rubys "Hello World!"
 '''
